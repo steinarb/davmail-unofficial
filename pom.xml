@@ -8,7 +8,7 @@
  <version>4.8.6</version>
  <name>DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway</name>
  <organization>
-  <name>Mickaël Guessant</name>
+  <name>MickaÃ«l Guessant</name>
  </organization>
  <url>http://www.sourceforge.net/projects/davmail</url>
  <inceptionYear>2001</inceptionYear>
@@ -35,7 +35,7 @@
  </properties>
  <developers>
   <developer>
-   <name>Mickaël Guessant</name>
+   <name>MickaÃ«l Guessant</name>
    <id>mguessan</id>
    <email>mguessan@free.fr</email>
    <url>http://mguessan.free.fr</url>
@@ -222,7 +222,7 @@
   <dependency>
    <groupId>org.apache.logging.log4j</groupId>
    <artifactId>log4j-core</artifactId>
-   <version>2.13.0</version>
+   <version>2.13.2</version>
   </dependency>
   <dependency>
    <groupId>javax.mail</groupId>
